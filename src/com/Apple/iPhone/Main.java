@@ -4,10 +4,18 @@ import com.Apple.iPhone.Entidades.*;
 
 public class Main {
     public static void main(String[] args) {
-
+        // Criando o Objeto iPhone
         iPhone iPhoneXr = new iPhone("XR", 002554, 2020);
-        iPhoneXr.playAndPause(iPhoneXr.selectMusic("Bilu bilu"));
+
+        // Tocando uma musica da lista de musicas
+        iPhoneXr.playAndPause(iPhoneXr.selectMusic("Ao Sabor do Vento"));
+
+        // Recenbendo e tentando realizar ligações
         iPhoneXr.answer(new Contact(71988881111L));
+        iPhoneXr.call(new Contact(71888888888L));
+        iPhoneXr.answer(new Contact(71999999999L));
+
+
 
     }
 }
