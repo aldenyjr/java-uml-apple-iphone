@@ -5,7 +5,7 @@ import com.Apple.iPhone.Entidades.*;
 public class Main {
     public static void main(String[] args) {
         // Criando o Objeto iPhone
-        iPhone iPhoneXr = new iPhone("XR", 002554, 2020);
+        Iphone iPhoneXr = new Iphone("XR", 002554, 2020);
 
         // Tocando uma musica da lista de musicas
         iPhoneXr.playAndPause(iPhoneXr.selectMusic("Ao Sabor do Vento"));

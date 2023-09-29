@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.Optional;
 import java.util.Set;
 
-public interface musicPlayer {
+public interface MusicPlayer {
 
     // play, pause, selectMusic
     default void playAndPause(Music music){

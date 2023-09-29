@@ -14,7 +14,6 @@ public interface Telephone {
         }
     }
 
-
     default void answer(Contact contact){
     }
 
