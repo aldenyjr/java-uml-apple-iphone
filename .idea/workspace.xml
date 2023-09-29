@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1251a08-f2b9-4f80-8be7-da6a743432c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iphone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Apple/iPhone/Entidades/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Apple/iPhone/Entidades/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Apple/iPhone/Entidades/iPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Apple/iPhone/Interfaces/InternetBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Apple/iPhone/Interfaces/Telephone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Apple/iPhone/Interfaces/mobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Apple/iPhone/Interfaces/musicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Apple/iPhone/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Apple/iPhone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Apple/iPhone/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2W4QBwZrgoOJFYy5CnxiZigBUuv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

@@ -57,7 +57,8 @@ public class iPhone implements mobilePhone{
     public void answer(Contact contact) {
         if(this.isCalling){
             System.out.println("Voce está em uma ligação e não pode receber, a mesma foi encaminhada para espera!");
-            } else {
+            } else if(this.music.isMusicPlay()) {
+            playAndPause(this.music);
             System.out.println("Recebendo ligação do contato: " + contact.getNumber());
             setCalling(true);
         }
